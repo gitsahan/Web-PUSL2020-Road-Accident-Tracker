@@ -1,0 +1,26 @@
+﻿body {
+}
+
+.full {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(ss.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 8%;
+    padding-right: 8%;
+    box-sizing: border-box;
+}
+
+.firstbox {
+    height: 80%;
+    width: 829px;
+    margin-top: 0px;
+    background-color: aqua;
+}
+
+.secondbox {
+    width: 234px;
+    height: 361px;
+    background-color: olive;
+}
