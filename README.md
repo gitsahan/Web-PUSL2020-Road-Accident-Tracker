@@ -4,5 +4,5 @@
 Developers: Sahan Karunaratne, Kasun Amarasinghe, Dharani Pinsarani, Jayani Prabodha & Lahiruka Wijesinghe.
 Type: Collaboration.
 
-Languages & Technologies:
-ASP.NET
+Important Languages & Technologies:
+ASP.NET, C#, CSS...
